@@ -38,7 +38,7 @@ export const employees = [
     startDate: "2025-03-15",
     location: "Abuja",
     department: "Product",
-    skills: ["Leadership", "Agile", "Roadmapping"]
+    skills: ["Leadership", "Agile", "Figma"]
 },
 {
     id: 4,
@@ -77,7 +77,7 @@ export const employees = [
     startDate: "2017-10-12",
     location: "Kano",
     department: "Product",
-    skills: ["Backlog Management", "Scrum", "Stakeholder Communication"]
+    skills: ["Backlog Management", "Scrum", "CSS"]
 },
 {
     id: 7,
@@ -90,7 +90,7 @@ export const employees = [
     startDate: "2010-05-20",
     location: "Lagos",
     department: "Engineering",
-    skills: ["Architecture Design", "Cloud", "DevOps"]
+    skills: ["Design", "Cloud", "DevOps"]
 },
 {
     id: 8,
@@ -103,7 +103,7 @@ export const employees = [
     startDate: "2022-03-14",
     location: "Port Harcourt",
     department: "Quality Assurance",
-    skills: ["Testing", "Automation", "Selenium"]
+    skills: ["Testing", "Automation", "HTML"]
 },
 {
     id: 9,
@@ -116,7 +116,7 @@ export const employees = [
     startDate: "2011-11-09",
     location: "Kaduna",
     department: "Design",
-    skills: ["UI Design", "UX Research", "Prototyping"]
+    skills: ["HTML", "CSS", "Prototyping"]
 },
 {
     id: 10,

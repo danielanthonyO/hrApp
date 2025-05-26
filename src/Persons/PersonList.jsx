@@ -1,7 +1,7 @@
 import PersonCard from "./PersonCard";
-import {employees} from "./personData"
+import "./Person.css";
 
-const PersonList = () => {
+const PersonList = ({employees}) => {
 return (
 <>
     <main>

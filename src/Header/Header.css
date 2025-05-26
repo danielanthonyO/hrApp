@@ -1,0 +1,28 @@
+#root {
+width: 100vw;
+}
+
+header {
+height: 55px;
+background-color: #e7e7b0;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem;
+}
+nav ul li {
+display: inline-block;
+padding: 1rem;
+cursor: pointer;
+}
+
+nav ul {
+list-style: none;
+display: flex;
+gap: 1rem;
+}
+
+
+nav ul li:hover {
+background-color: rgba(255, 255, 255, 0.1);
+}
