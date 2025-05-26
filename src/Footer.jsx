@@ -1,7 +1,7 @@
 const Footer = (props) => {
 return (
     <footer>
-    <p>Copyright &copy; Margit Tennosaar {props.year}</p>
+    <p>Copyright &copy; Daniel Anthony {props.year}</p>
     </footer>
 );
 };
